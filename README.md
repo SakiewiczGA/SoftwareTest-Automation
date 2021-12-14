@@ -1,1 +1,4 @@
 # SoftwareTest-Automation
+I think incorporating user needs into a program goes into how I approach designing software.  Interpreting user needs really depends on the details of the user, if they're clear or unclear.  If they're clear they can be made into user stories which then helps me think about the logic and flow of the code.  Ensuring my code is functional and secure can be done with testing.  Using the JUnit5 tests in this class, I learned how to test the functionality and desired outcome of all of my variables and methods without having to run the code or trying to create inputs. Using assertions when it came to the expected outcome tested the functionality.  The coverage tool also proved helpful because sometimes I could have 0 failures but some tests were skipped because of my own errors.   
+
+Note to self: In C++I was learning structs before this, I need to learn more about maps, hash maps** in Java 
